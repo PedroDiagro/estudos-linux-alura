@@ -20,3 +20,18 @@ Curso: Linux: criando script para processamento de arquivos de logs
 6- Combina os logs em um único arquivo, identificando a origem com os prefixos [FRONTEND] e [BACKEND]
 
 7- Espera os logs em ../myapp/logs e grava os resultados em ../myapp/logs-processados.
+
+
+##O que aprendi
+
+•Navegação, permissões e execução de scripts no terminal
+
+•Busca e filtragem de texto com grep e expressões regulares
+
+•Edição de texto em fluxo com sed
+
+•Percorrer arquivos com find e laços while read
+
+•Condicionais e redirecionamento (> e >>) em Bash
+
+•Ordenação, remoção de duplicatas e contagem com sort, uniq e wc
