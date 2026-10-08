@@ -21,7 +21,7 @@ Curso: Linux: criando script para processamento de arquivos de logs
 
 7- Espera os logs em ../myapp/logs e grava os resultados em ../myapp/logs-processados.
 
-**O que aprendi**
+**O que aprendi:**
 
 •Navegação, permissões e execução de scripts no terminal
 
