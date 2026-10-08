@@ -1,4 +1,4 @@
-#Estudos de Linux e Shell Script (Alura)
+# Estudos de Linux e Shell Script (Alura)
 
 Scripts em Bash desenvolvidos durante os cursos de Linux da Alura, feitos acompanhando as aulas. Este repositório registra meus estudos em automação e processamento de logs.
 
