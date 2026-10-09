@@ -75,6 +75,13 @@ Testado em distribuições baseadas em Debian/Ubuntu. Em sistemas sem `/var/log/
 - Verificar se as dependências estão instaladas antes de rodar o monitoramento
 - Agendar o monitoramento com `cron`
 
+## Cursos concluídos (Alura)
+
+- [Linux para cibersegurança: administração, shell scripting e Kali Linux](https://cursos.alura.com.br/certificate/c26e97a6-9ccc-46e1-8cd8-706cfab0af21) (set/2026)
+- [Linux: gerenciando diretórios, arquivos, permissões e processos](https://cursos.alura.com.br/certificate/dc35d36c-e6e6-4f60-a7a0-8d23269cc88e) (out/2026)
+- [Linux: criando script de monitoramento de sistema](https://cursos.alura.com.br/certificate/6f268ed8-d365-499b-8357-c161cc2048b4) (out/2026)
+- [Linux: criando script para processamento de arquivos de logs](https://cursos.alura.com.br/certificate/4c8b2455-4fc8-40b0-8f62-e5b459e72471) (out/2026)
+
 ## Tecnologias
 
 Bash · Linux · grep · sed · awk
